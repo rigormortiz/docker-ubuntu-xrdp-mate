@@ -1,4 +1,4 @@
-FROM rigormortiz/ubuntu-xrdp:latest
+FROM rigormortiz/ubuntu-xrdp:0.1
 
 MAINTAINER Mike Ortiz <mike@jellydice.com>
 
