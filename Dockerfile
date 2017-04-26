@@ -1,4 +1,4 @@
-FROM rigormortiz/ubuntu-xrdp:0.1
+FROM rigormortiz/ubuntu-xrdp:yakkety
 
 MAINTAINER Mike Ortiz <mike@jellydice.com>
 
